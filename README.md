@@ -1,3 +1,3 @@
-_A curiosidade é a única força que me move._
+### _A curiosidade é a única força que me move._
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdesousa&layout=compact&theme=transparent&show_icons=true&locale=pt-br&card_width=300)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamdesousa&layout=compact&theme=transparent&show_icons=true&locale=pt-br)
