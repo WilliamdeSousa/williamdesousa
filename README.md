@@ -2,7 +2,7 @@
 
 ---
 
-Este é meu túmulo. Aqui estarão meus materiais e códigos para as futuras gerações, se alguém conseguir aproveitar algo daqui já estarei feliz! O mundo é grande, sejam livres.
+Aqui estarão meus materiais e códigos para as futuras gerações, se alguém conseguir aproveitar algo daqui já estarei feliz! O mundo é grande, sejam livres.
 
 ## Sobre mim 🖖
 
