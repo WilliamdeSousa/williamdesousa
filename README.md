@@ -2,7 +2,13 @@
 
 ---
 
-Atualmente estou estudando React com NextJs e Tailwind para estilização. Também já estudei styled components. 
+Considero o meu GitHub como uma lápide que estará disponível após a minha morte, e durante a minha vida, para compartilhar o que eu achei/acho conveniente.
+
+A grande maioria desses repositórios provavelmente está inacabada, imperfeita e meio inútil. Mas sinceramente: *não importa, somos poeira cósmica vagando pelo espaço*.
+
+Meu objetivo na vida não é ser rico, produtivo ou ser grande. Só quero ter paz na vida, compartilhar o que achar interessante/divertido e vagar pelo espaço.
+
+Se achou algo útil, parabéns e obrigado pela atenção! Até a próxima!
 
 <div align="center">
   
