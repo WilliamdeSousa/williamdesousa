@@ -1,0 +1,3 @@
+[submodule "IFPB/engenharia-de-computacao/2025.1/microcontroladores"]
+	path = IFPB/engenharia-de-computacao/2025.1/microcontroladores
+	url = https://github.com/WilliamdeSousa/microcontroladores.git
