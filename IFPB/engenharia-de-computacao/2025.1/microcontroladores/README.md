@@ -8,12 +8,6 @@ Período de Referência: 4
 
 Nota/Conceito: 97
 
-## Anotações
-
-Achei a disciplina extremamente interessante e divertida. Me senti de fato pertencente ao curso de Engenharia de Computação pela primeira vez aqui, quando pratiquei de fato com a mão nos microcontroladores STM32F407VET6.
-
-Destinarei um outro repositório somente para armazenar os códigos das aulas práticas.
-
 ## Método de Avaliação
 
 1ª avaliação: 
@@ -23,3 +17,11 @@ Destinarei um outro repositório somente para armazenar os códigos das aulas pr
 2ª avaliação:
 	* 50 pontos: prova prática durante 2 semanas
 	* 50 pontos: prova teórica em sala
+
+## Comentários
+
+Achei a disciplina extremamente interessante e divertida. Me senti de fato pertencente ao curso de Engenharia de Computação pela primeira vez aqui, quando pratiquei de fato com a mão nos microcontroladores STM32F407VET6.
+
+Amei a didática de sala de aula invertida, o que nos permitiu estudar em casa os conteúdos teóricos, através de materiais em PDF e aulas no [canal do youtube](https://www.youtube.com/@fagnereng) de própria autoria do professor, e focar todo o tempo presencial em desenvolvimento de atividades práticas com os microcontroladores.
+
+Uma das melhores cadeiras do curso.
