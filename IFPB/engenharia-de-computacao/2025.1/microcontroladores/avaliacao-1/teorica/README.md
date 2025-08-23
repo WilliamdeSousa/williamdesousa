@@ -2,8 +2,8 @@
 
 ## Questões
 
-![Questoes - parte 1](rsc/prova1.jpg)
-![Questoes - parte 2](rsc/prova2.jpg)
+![Questões - parte 1](rsc/prova1.jpg)
+![Questões - parte 2](rsc/prova2.jpg)
 
 ## Resolução
 
