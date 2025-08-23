@@ -1,22 +1,23 @@
 # Microprocessadores e Microcontroladores
 
-Professor: [Fagner de Araujo Pereira](http://lattes.cnpq.br/8972233136339551)
+## Informações da disciplina
 
-Plano da disciplina: https://estudante.ifpb.edu.br/media/cursos/28/disciplina/microcontroladores_microprocessadores.pdf
-
-Período de Referência: 4
-
-Nota/Conceito: 97
+* [Plano da disciplina](https://estudante.ifpb.edu.br/media/cursos/28/disciplina/microcontroladores_microprocessadores.pdf)
+* **Professor:** [Fagner de Araujo Pereira](http://lattes.cnpq.br/8972233136339551)
+* **Período de Referência:** 4
+* **Nota/Conceito:** 97
 
 ## Método de Avaliação
 
-1ª avaliação: 
-	* 50 pontos: prova prática durante 2 semanas
-	* 50 pontos: prova teórica em sala
+**1ª avaliação:** Introdução a Microcontroladores e GPIO no STM32F407.
 
-2ª avaliação:
-	* 50 pontos: prova prática durante 2 semanas
-	* 50 pontos: prova teórica em sala
+* **50 pontos:** prova prática durante 2 semanas
+* **50 pontos:** prova teórica em sala
+
+**2ª avaliação:** Interrupções, Conversores DAC e ADC e Timers.
+
+* **50 pontos:** prova prática durante 2 semanas
+* **50 pontos:** prova teórica em sala
 
 ## Comentários
 
