@@ -7,3 +7,6 @@
 [submodule "IFPB/projeto-olimpico-de-programacao/2022"]
 	path = IFPB/projeto-olimpico-de-programacao/2022
 	url = https://github.com/WilliamdeSousa/pop2022
+[submodule "IFPB/projeto-olimpico-de-programacao/2023"]
+	path = IFPB/projeto-olimpico-de-programacao/2023
+	url = https://github.com/WilliamdeSousa/pop2023.git
