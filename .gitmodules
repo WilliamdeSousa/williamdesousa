@@ -10,6 +10,6 @@
 [submodule "IFPB/projeto-olimpico-de-programacao/2023"]
 	path = IFPB/projeto-olimpico-de-programacao/2023
 	url = https://github.com/WilliamdeSousa/pop2023.git
-[submodule "IFPB/telematica/2022.1"]
+[submodule "IFPB/telematica/2022.1/lab-sistemas-abertos"]
 	path = IFPB/telematica/2022.1/lab-sistemas-abertos
 	url = https://github.com/WilliamdeSousa/lab-sistemas-abertos.git
