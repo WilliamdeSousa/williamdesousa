@@ -13,3 +13,18 @@
 [submodule "IFPB/telematica/2022.1/lab-sistemas-abertos"]
 	path = IFPB/telematica/2022.1/lab-sistemas-abertos
 	url = https://github.com/WilliamdeSousa/lab-sistemas-abertos
+[submodule "CeV/ola-mundo"]
+	path = CeV/ola-mundo
+	url = https://github.com/WilliamdeSousa/ola-mundo
+[submodule "CeV/java"]
+	path = CeV/java
+	url = https://github.com/WilliamdeSousa/java-cev
+[submodule "CeV/html-css"]
+	path = CeV/html-css
+	url = https://github.com/WilliamdeSousa/html-css
+[submodule "CeV/php-moderno"]
+	path = CeV/php-moderno
+	url = https://github.com/WilliamdeSousa/curso-php
+[submodule "CeV/exercicios-python"]
+	path = CeV/exercicios-python
+	url = https://github.com/WilliamdeSousa/exercicios-python-cev
