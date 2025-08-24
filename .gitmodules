@@ -4,3 +4,6 @@
 [submodule "IFPB/engenharia-de-computacao/2025.2/projeto-de-sistemas-digitais"]
 	path = IFPB/engenharia-de-computacao/2025.2/projeto-de-sistemas-digitais
 	url = https://github.com/WilliamdeSousa/projeto-de-sistemas-digitais.git
+[submodule "IFPB/projeto-olimpico-de-programacao/2022"]
+	path = IFPB/projeto-olimpico-de-programacao/2022
+	url = https://github.com/WilliamdeSousa/pop2022
