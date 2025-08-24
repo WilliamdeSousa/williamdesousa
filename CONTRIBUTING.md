@@ -82,11 +82,20 @@ Este projeto utiliza o padrão [Conventional Commits](https://www.conventionalco
 
 O escopo indica a parte do projeto que foi modificada, seguindo a estrutura `instituição/curso/período/disciplina` sempre em minúsculo.
 
-**Códigos dos Cursos:**
+**Códigos dos Cursos/Projetos:**
 Para manter o escopo conciso, utilize os seguintes códigos:
 
 * `ec`: Engenharia de Computação
 * `pg`: Petróleo e Gás
+* `tele`: Telemática
+* `pop`: Projeto Olímpico de Programação
+
+**Abreviações das Disciplinas:**
+
+* `micro`: Microprocessadores e Microcontroladores
+* `teoria-comp`: Teoria da Computação
+* `lsa`: Laboratório de Sistemas Abertas
+* `psd`: Projeto de Sistemas Digitais
 
 **Exemplos de Escopo:**
 
